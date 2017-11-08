@@ -42,7 +42,7 @@ N_IMAGES_DSLR = 498
 N_IMAGES_WC = 795
 S_IMAGE = 256
 S_BATCH = 2
-N_REPETITIONS = 1
+N_REPETITIONS = 5
 
 print("\nLoading office image data...")
 datagen = ImageDataGenerator()
