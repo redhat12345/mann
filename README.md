@@ -1,4 +1,4 @@
-# cmd
+# mann
 Robust Unsupervised Domain Adaptation via Moment Alignment
 
 This repository contains code for reproducing the experiments reported in the paper
